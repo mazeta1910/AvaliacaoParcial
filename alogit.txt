@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Alô Git
 Matheus C. P. Santos
+=======
+Alô Git.
+>>>>>>> 73b60538e44afd18d2f195fbb6bead56b2b32cc5
