@@ -1,0 +1,1 @@
+O commit do .gitignore saiu creditado para o usuário Jorginho0401 quando deveria ter saído para o usuário mazeta1910.
